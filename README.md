@@ -1,14 +1,16 @@
-![https://github.com/](./public/banner.png)
+![https://github.com/sfuentes-dev/peaku-proyecto-final-bootcamp-frontend](./public/banner.png)
 
 # PeakU Bootcamp FullStack Proyecto Final - **FrontEnd**
 
 ### Esta aplicación fue realizada como proyecto final para el bootcamp de PeakU en donde se recrea el diseño de un landing page de viajes para una empresa de nombre Trabook. El proyecto es totalmente responsive se aplicó el parámetro de diseño **Mobile First**.
 
-## aclaración
+<br />
+
+## Aclaración:
 
 La aplicación se comporta de manera adecuada en los siguientes anchos de pantalla, los cuales hacen referencia a los tipos de pantalla más comunes para mobile, tablet y desktop:
 
-- 374 px
+- 375 px
 - 768 px
 - 1024 px
 - 1440 px
@@ -48,7 +50,7 @@ La aplicación se comporta de manera adecuada en los siguientes anchos de pantal
 
 3. Realizar el paso a paso del repositorio del backend para una correcta conexión con la base de datos y poder visualizar la data de prueba correctamente. Enlace del repositorio del backend:
 
-   [Repositorio Backend]()
+   [Repositorio Backend](https://github.com/sfuentes-dev/peaku-proyecto-final-bootcamp-backend)
 
 4. Ejecutar el proyecto con el siguiente comando:
 
